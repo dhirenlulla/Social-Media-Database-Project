@@ -12,10 +12,10 @@
 
 # Components
 
-- [Schema](https://github.com/ssahibsingh/Social-Media-Database-Project/blob/9c3312aaf59acdce09fe6f4857e96b371fa58b40/schema.sql)
-- [Database](https://github.com/ssahibsingh/Social-Media-Database-Project/blob/9c3312aaf59acdce09fe6f4857e96b371fa58b40/table_database.sql)
-- [ER Diagram](https://github.com/ssahibsingh/Social-Media-Database-Project/blob/9c3312aaf59acdce09fe6f4857e96b371fa58b40/ER%20Diagram.png)
-- [Sample Queries](https://github.com/ssahibsingh/Social-Media-Database-Project/blob/9c3312aaf59acdce09fe6f4857e96b371fa58b40/queries.sql)
+- [Schema](https://github.com/dhirenlulla/Social-Media-Database-Project/blob/main/social-media-db-project/Social-Media-Database-Project/schema.sql)
+- [Database](https://github.com/dhirenlulla/Social-Media-Database-Project/tree/main/social-media-db-project/Social-Media-Database-Project/Database)
+- [ER Diagram](https://github.com/dhirenlulla/Social-Media-Database-Project/blob/main/social-media-db-project/Social-Media-Database-Project/ER%20Diagram.png)
+- [Sample Queries](https://github.com/dhirenlulla/Social-Media-Database-Project/blob/main/social-media-db-project/Social-Media-Database-Project/queries.sql)
 
 ## Contributing
 
